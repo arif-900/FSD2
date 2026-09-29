@@ -7,9 +7,9 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Name: Arif Molla</h1>
+      <h1>Name: UDAY KIRAN </h1>
       <br />
-      <h1>RegNo: 23091A3213</h1>
+      <h1>RegNo: 23091A32H1</h1>
     </>
   );
 }
