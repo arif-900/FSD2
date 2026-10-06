@@ -1,8 +1,5 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
 import './App.css'
+
 
 function App() {
   return (
@@ -10,6 +7,10 @@ function App() {
       <h1>Name: Arif Molla</h1>
       <br />
       <h1>RegNo: 23091A3213</h1>
+      <br />
+      <h1>Name: Uday Kiran Reddy Nossam</h1>
+      <br />
+      <h1>RegNo: 23091A32H1</h1>
     </>
   );
 }
